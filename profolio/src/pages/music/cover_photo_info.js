@@ -1,8 +1,0 @@
-
-
-const coverphotos  = [
-];
-
-export {
-    coverphotos,
-};
